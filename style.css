@@ -151,6 +151,8 @@ span{
     justify-content: space-evenly;
     background-color: #e2e7e6;
 }
+
+
 .box-img{
     background-image: url(box1_image.jpg);
     background-size: cover;
